@@ -1,0 +1,18 @@
+Listado de Problemas
+
+Semana 2:
+
+
+UVA 11742
+UVA 12455
+UVA 10660
+UVA 11565
+UVA 11553
+UVA 1047
+UVA 12346
+
+Bonus (opcionales):
+UVA 1064
+UVA 12249
+UVA 12346
+UVA 12406
