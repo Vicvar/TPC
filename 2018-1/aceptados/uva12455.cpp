@@ -18,18 +18,18 @@ int main(){
 		}
 		for(int j=0; j<pow(2,barnum); j++){
 			int sum=0;
+			unsigned int iis=j;
 			for(int k=0; k<barnum; k++){
-				int iis=j;
-				iis<<(31-k);
-				iis>>(31);
-				cout<<iis<<endl;
-				if(iis) sum+=bars[k];
+				//cout<<(iis&1)<<endl;
+				if(iis&1) sum+=bars[k];
+				iis=iis>>1;
 			}
 			if(sum==len){
 				yes=true;
 				break;
 			}
 		}
+		bars.clear();
 		if(yes) cout<<"YES"<<endl;
 		else cout<<"NO"<<endl;
 	}

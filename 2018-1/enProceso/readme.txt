@@ -4,7 +4,7 @@ Semana 2:
 
 
 UVA 11742
-UVA 12455
+UVA 12455 - DONE - (subsets bf)
 UVA 10660
 UVA 11565
 UVA 11553
