@@ -39,15 +39,18 @@ int main(){
 		}
 
 		//obtener la mejor pos para cada oficina
+		int bl=80*25;
+		int distaux;
+
 		for(int j=0; j<5; j++){
-			int bl=80*25;
-			int mejor=0;
+		int mejor=0;
+		distaux=bl;
 
 			//probar todos los cuadrantes(no asignados)
 			for(int k=0; k<25;k++){
+				int dist=0;
+				auxd=dto;
 				if(find(loc.begin(), loc.end(), k)==loc.end()){
-					int dist=0;
-					auxd=dto;
 					//calcular la mejora y elegir la mayor
 					for(int l=0; l<25; l++){
 						//calc dist w act di
@@ -59,13 +62,14 @@ int main(){
 						else
 							dist+=dto[l]*city[l];
 					}
-					if(dist<bl){
-						bl=dist;
+					if(dist<distaux){
+						distaux=dist;
 						mejor=k;
+						dto=auxd;
 					}
-					dto=auxd;
 				}
 			}
+			bl=distaux;
 			loc.push_back(mejor);
 		}
 		sort(loc.begin(), loc.end());
