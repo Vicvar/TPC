@@ -20,7 +20,6 @@ int main(){
 			int sum=0;
 			unsigned int iis=j;
 			for(int k=0; k<barnum; k++){
-				//cout<<(iis&1)<<endl;
 				if(iis&1) sum+=bars[k];
 				iis=iis>>1;
 			}

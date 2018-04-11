@@ -1,15 +1,15 @@
-Listado de Problemas
+lListado de Problemas
 
 Semana 2:
 
 
-UVA 11742
-UVA 12455 - DONE - (subsets)
+UVA 11742 - DONE
+UVA 12455 - DONE
 UVA 10660
 UVA 11565
 UVA 11553
 UVA 1047
-UVA 12346
+UVA 12346 - DONE
 
 Bonus (opcionales):
 UVA 1064
