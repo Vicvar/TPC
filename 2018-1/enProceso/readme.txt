@@ -1,6 +1,6 @@
-lListado de Problemas
+Listado de Problemas
 
-Semana 2:
+Listado 1:
 
 
 UVA 11742 - DONE
@@ -12,7 +12,23 @@ UVA 1047
 UVA 12346 - DONE
 
 Bonus (opcionales):
+
 UVA 1064
 UVA 12249
 UVA 12346
 UVA 12406
+
+Listado 2:
+
+UVA 00624 - DONE
+UVA 10576
+UVA 11085
+UVA 00524
+UVA 00574
+UVA 10503
+
+Bonus (opcionales):
+
+UVA 00193
+UVA 00416
+UVA 01262
