@@ -11,12 +11,12 @@ UVA 11553
 UVA 1047
 UVA 12346 - DONE
 
-Bonus (opcionales):
+	Bonus (opcionales):
 
-UVA 1064
-UVA 12249
-UVA 12346
-UVA 12406
+	UVA 1064
+	UVA 12249
+	UVA 12346
+	UVA 12406
 
 Listado 2:
 
@@ -27,13 +27,34 @@ UVA 00524
 UVA 00574 - DONE
 UVA 10503
 
-Bonus (opcionales):
+	Bonus (opcionales):
 
-UVA 00193
-UVA 00416
-UVA 01262
-UVA 10094
-UVA 11090
-UVA 00565
-UVA 00861
+	UVA 00193
+	UVA 00416
+	UVA 01262
+	UVA 10094
+	UVA 11090
+	UVA 00565
+	UVA 00861
 
+
+Listado 3:
+
+UVa 410
+UVa 10020
+UVa 10340
+UVa 10440
+UVa 10670
+UVa 10763
+
+	Bonus (Opcionales):
+	UVa 11054
+	UVa 11292
+	UVa 11369
+
+
+
+Notas:
+
+*SAT solver
+*Búsqueda exhaustiva con recursividad - uva 565
