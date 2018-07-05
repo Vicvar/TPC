@@ -1,12 +1,12 @@
-Listado de Problemas
+Listados de Problemas
 
-Listado 1:
 
+Listado 1(7):
 
 UVA 11742 - DONE
 UVA 12455 - DONE
 UVA 10660 - DONE
-UVA 11565
+UVA 11565 - DONE
 UVA 11553
 UVA 1047
 UVA 12346 - DONE
@@ -18,7 +18,8 @@ UVA 12346 - DONE
 	UVA 12346
 	UVA 12406
 
-Listado 2:
+
+Listado 2(6):
 
 UVA 00624 - DONE
 UVA 10576
@@ -38,14 +39,14 @@ UVA 10503
 	UVA 00861
 
 
-Listado 3:
+Listado 3(6):
 
-UVa 410
-UVa 10020
-UVa 10340
-UVa 10440
-UVa 10670
-UVa 10763
+UVA 410
+UVA 10020
+UVA 10340
+UVA 10440
+UVA 10670
+UVA 10763
 
 	Bonus (Opcionales):
 	UVa 11054
@@ -53,6 +54,23 @@ UVa 10763
 	UVa 11369
 
 
+Listado 4(5):
+
+UVA 10755
+UVA 10827
+UVA 11456
+UVA 11566
+UVA 10306
+
+	Bonus:
+	UVA 161
+	UVA 10337
+	UVA 10943
+	UVA 10721
+	UVA 10446
+
+Avance: 6/24
+Evaluado sobre: 19
 
 Notas:
 
