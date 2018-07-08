@@ -43,10 +43,10 @@ Listado 3(6):
 
 UVA 410
 UVA 10020
-UVA 10340
+UVA 10340 - DONE
 UVA 10440
 UVA 10670
-UVA 10763
+UVA 10763 - DONE
 
 	Bonus (Opcionales):
 	UVa 11054
@@ -69,7 +69,7 @@ UVA 10306
 	UVA 10721
 	UVA 10446
 
-Avance: 11/24
+Avance: 13/24
 Evaluado sobre: 19
 
 Notas:
