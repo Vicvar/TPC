@@ -23,10 +23,10 @@ Listado 2(6):
 
 UVA 00624 - DONE
 UVA 10576
-UVA 11085
-UVA 00524
+UVA 11085 - DONE
+UVA 00524 - DONE
 UVA 00574 - DONE
-UVA 10503
+UVA 10503 - DONE
 
 	Bonus (opcionales):
 
@@ -69,7 +69,7 @@ UVA 10306
 	UVA 10721
 	UVA 10446
 
-Avance: 8/24
+Avance: 11/24
 Evaluado sobre: 19
 
 Notas:
